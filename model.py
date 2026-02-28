@@ -7,7 +7,7 @@ Both the training script (scripts/03_train_projection.py) and the
 inference pipeline (app/inference.py) import from here.
 
 If you change the architecture, update ONLY this file.
-Then re-run scripts 03 and 04 to regenerate projection.pt and
+Then re-run steps 03 and 04 to regenerate projection.pt and
 kural_index.faiss.
 """
 
