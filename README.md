@@ -19,7 +19,8 @@ Upload any photograph. The system finds the Thirukkural couplet whose **ethical 
 
 ### About the Thirukkural
 
-The **Thirukkural** (திருக்குறள்), composed by **Thiruvalluvar** (~3rd century BCE), is one of the most translated texts in the world. It contains **1,330 couplets** across **133 chapters** in three books:
+The **Thirukkural** (திருக்குறள்), composed by **Thiruvalluvar** (~3rd century BCE), is one of the most translated texts in the world and is considered
+the moral backbone of Tamil civilisation. It contains **1,330 couplets** across **133 chapters** in three main sections:
 
 | Pal | Tamil | Scope |
 |-----|-------|-------|
@@ -38,11 +39,9 @@ The **Thirukkural** (திருக்குறள்), composed by **Thiruvall
 - `openai/clip-vit-large-patch14` - image encoding (runs live)
 - `sarvamai/sarvam-2b-v0.5` - Tamil text encoding (offline, pre-indexed)
 
-### About the Thirukkural
-The Thirukkural (திருக்குறள்), by Thiruvalluvar (~3rd century BCE),
-contains 1,330 two-line couplets on Virtue, Wealth, and Love.
-It is one of the most translated texts in the world and is considered
-the moral backbone of Tamil civilisation.
+### Screenshot
+
+![App Screenshot](screenshot.png)
 
 ---
 
@@ -75,7 +74,7 @@ MIT — see [LICENSE](LICENSE).
 @software{vision_to_kural_2025,
   title   = {Vision-to-Kural: Ethical Image Captioning using Thirukkural},
   author  = {Birashalynee S},
-  year    = {202},
+  year    = {2026},
   url     = {https://github.com/Shaliinii28/vision-to-kural},
   note    = {CLIP + Sarvam-2B + FAISS pipeline for mapping visual scenes
              to the moral philosophy of the Thirukkural}
