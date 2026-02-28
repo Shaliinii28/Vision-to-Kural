@@ -5,12 +5,6 @@ Core inference engine for Vision-to-Kural.
 This module is imported by app.py. It handles:
   1. Loading all models and indexes at startup (once)
   2. The image → top-K Kural retrieval pipeline at request time
-
-Nothing in this file involves Sarvam-2B at runtime — Sarvam's
-work is already baked into the FAISS index. Only CLIP runs live.
-
-Startup time: ~15-25 seconds (CLIP load + index load)
-Per-request time: ~300-500ms on CPU
 """
 
 import json
