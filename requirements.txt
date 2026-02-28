@@ -1,0 +1,25 @@
+# app/requirements.txt
+# ─────────────────────────────────────────────
+# These are the ONLY dependencies installed in HF Spaces.
+# Keep this minimal — every extra package adds cold-start time.
+#
+# IMPORTANT: Sarvam-2B (transformers, accelerate, bitsandbytes) is
+# NOT listed here because it does NOT run at inference time.
+# All Kural embeddings are pre-computed and stored in kural_index.faiss.
+# ─────────────────────────────────────────────
+
+# Image encoding (runtime model)
+openai-clip
+
+# Vector search
+faiss-cpu
+
+# Core ML
+torch
+numpy
+
+# Web UI
+gradio
+
+# Image processing
+Pillow
