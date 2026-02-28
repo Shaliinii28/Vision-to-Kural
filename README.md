@@ -1,23 +1,3 @@
----
-title: Vision-to-Kural | Ethical Image Captioning
-emoji: 🔍
-colorFrom: blue
-colorTo: teal
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
-license: mit
-tags:
-  - tamil
-  - thirukkural
-  - ethics
-  - image-to-text
-  - clip
-  - sarvam
-  - indic-nlp
-  - multimodal
----
 
 # Vision-to-Kural 🔍 — திருக்குறள்
 
