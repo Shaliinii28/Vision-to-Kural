@@ -60,8 +60,6 @@ Please open an issue before starting large changes.
 
 ### License
 
-MIT — see [LICENSE](LICENSE).
-
 - Thirukkural text: **public domain** (composed ~2nd century CE)
 - CLIP weights: [OpenAI Research License](https://github.com/openai/CLIP/blob/main/LICENSE)
 - Sarvam-2B weights: [Sarvam AI License](https://huggingface.co/sarvamai/sarvam-2b-v0.5)
