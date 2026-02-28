@@ -74,8 +74,8 @@ MIT — see [LICENSE](LICENSE).
 ```bibtex
 @software{vision_to_kural_2025,
   title   = {Vision-to-Kural: Ethical Image Captioning using Thirukkural},
-  author  = {YOUR NAME},
-  year    = {2025},
+  author  = {Birashalynee S},
+  year    = {202},
   url     = {https://github.com/Shaliinii28/vision-to-kural},
   note    = {CLIP + Sarvam-2B + FAISS pipeline for mapping visual scenes
              to the moral philosophy of the Thirukkural}
