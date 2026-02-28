@@ -19,7 +19,7 @@ Upload any photograph. The system finds the Thirukkural couplet whose **ethical 
 
 ### About the Thirukkural
 
-The **Thirukkural** (திருக்குறள்), composed by **Thiruvalluvar** (~3rd century BCE), is one of the most translated texts in the world and is considered
+The **Thirukkural** (திருக்குறள்), composed by **Thiruvalluvar** (~2nd century BCE), is one of the most translated texts in the world and is considered
 the moral backbone of Tamil civilisation. It contains **1,330 couplets** across **133 chapters** in three main sections:
 
 | Pal | Tamil | Scope |
