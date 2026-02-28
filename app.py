@@ -2,20 +2,19 @@
 """
 Vision-to-Kural — Gradio Web Application
 =========================================
-
-Entry point for the Hugging Face Spaces deployment.
-Run locally with:  python app.py
-Deploy to HF:      git push space main
-
+This is the main Gradio app that serves the user interface for uploading images
+and displaying the retrieved Kural results.
 The app:
   1. Loads CLIP + projection head + FAISS index on startup.
   2. Accepts an image upload from the user.
   3. Encodes the image, retrieves top-K matching Kurals.
   4. Displays styled result cards with Tamil text, English
      explanation, commentary, chapter, Pal, and match score.
-
-No Sarvam-2B is loaded at runtime — its work is pre-baked
-into the FAISS index. Only CLIP runs live.
+  5. Allows filtering by Pal (Virtue, Wealth, Love) and adjusting
+      the number of results shown.
+  6. Handles errors gracefully and shows loading states.
+  7. Is styled with custom CSS for a polished look.
+  8. Is mobile-responsive and accessible.
 """
 
 import logging
@@ -234,7 +233,7 @@ resonates with the ethical or emotional essence of your image.
 FOOTER = """
 <div style="text-align:center;margin-top:24px;padding:16px;
             border-top:1px solid #E2E8F0;color:#94A3B8;font-size:12px;">
-  Built with CLIP · Sarvam-2B · FAISS · Gradio · Hosted free on 🤗 HF Spaces<br>
+  Built with CLIP · Sarvam-2B · FAISS · Gradio<br>
   <em>Thirukkural text is in the public domain.</em>
 </div>
 """
