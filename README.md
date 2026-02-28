@@ -9,11 +9,11 @@ Upload any photograph. The system finds the Thirukkural couplet whose **ethical 
 
 | Scene | Retrieved Kural | Why it matches |
 |-------|----------------|----------------|
-| A parent watching their child play | *Kural #63 — Makkatperu (Children)* | Parent-child bond as true wealth |
-| Friends laughing and helping each other | *Kural #786 — Natpu (Friendship)* | The joy and duty of deep friendship |
-| A person meditating alone | *Kural #350 — Thuravu (Renunciation)* | Solitude and detachment from desire |
-| A couple separated by distance | *Kural #1295 — Pirividaral (Separation)* | The paradox of love and longing |
-| Someone speaking gently to another | *Kural #93 — Insol (Kind Words)* | The power of gentle speech |
+| A parent watching their child play | *Kural #63 - Makkatperu (Children)* | Parent-child bond as true wealth |
+| Friends laughing and helping each other | *Kural #786 - Natpu (Friendship)* | The joy and duty of deep friendship |
+| A person meditating alone | *Kural #350 - Thuravu (Renunciation)* | Solitude and detachment from desire |
+| A couple separated by distance | *Kural #1295 - Pirividaral (Separation)* | The paradox of love and longing |
+| Someone speaking gently to another | *Kural #93 - Insol (Kind Words)* | The power of gentle speech |
 
 ---
 
@@ -35,8 +35,8 @@ The **Thirukkural** (திருக்குறள்), composed by **Thiruvall
 4. Results show Tamil text, transliteration, English meaning, and commentary
 
 ### Models
-- `openai/clip-vit-large-patch14` — image encoding (runs live)
-- `sarvamai/sarvam-2b-v0.5` — Tamil text encoding (offline, pre-indexed)
+- `openai/clip-vit-large-patch14` - image encoding (runs live)
+- `sarvamai/sarvam-2b-v0.5` - Tamil text encoding (offline, pre-indexed)
 
 ### About the Thirukkural
 The Thirukkural (திருக்குறள்), by Thiruvalluvar (~3rd century BCE),
@@ -50,10 +50,10 @@ the moral backbone of Tamil civilisation.
 
 Contributions welcome! Priority areas:
 
-1. **Image annotations** — annotate image-Kural pairs and open a PR
-2. **UI improvements** — transliteration, audio, better card layout  
-3. **Evaluation** — more diverse test scenes, human evaluation by Tamil speakers
-4. **Alternative encoders** — test IndicBERT, MuRIL, or ai4bharat models
+1. **Image annotations** - annotate image-Kural pairs and open a PR
+2. **UI improvements** - transliteration, audio, better card layout  
+3. **Evaluation** - more diverse test scenes, human evaluation by Tamil speakers
+4. **Alternative encoders** - test IndicBERT, MuRIL, or ai4bharat models
 
 Please open an issue before starting large changes.
 
