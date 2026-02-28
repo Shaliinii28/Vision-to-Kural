@@ -41,7 +41,7 @@ the moral backbone of Tamil civilisation. It contains **1,330 couplets** across 
 
 ### Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.jpeg)
 
 ---
 
