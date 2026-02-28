@@ -90,7 +90,7 @@ MIT — see [LICENSE](LICENSE).
 
 *"If one can keep to the path of truthfulness, there is no need for other virtues."*
 
-— **Kural 297**
+~ **Kural 297**
 
 <br/>
 Built with ❤️ using CLIP · Sarvam-2B · FAISS · Gradio
