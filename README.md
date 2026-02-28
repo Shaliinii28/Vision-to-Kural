@@ -1,11 +1,11 @@
 
-# Vision-to-Kural 🔍 — திருக்குறள்
+# Vision-to-Kural - திருக்குறள்
 
 **Upload any photo. Discover the 2,000-year-old Tamil wisdom it embodies.**
 
 ### What it does
 
-Upload any photograph. The system finds the Thirukkural couplet whose **ethical essence** best matches the scene — moving AI from pure **object detection** into **value judgment**.
+Upload any photograph. The system finds the Thirukkural couplet whose **ethical essence** best matches the scene - moving AI from pure **object detection** into **value judgment**.
 
 | Scene | Retrieved Kural | Why it matches |
 |-------|----------------|----------------|
@@ -93,6 +93,6 @@ MIT — see [LICENSE](LICENSE).
 — **Kural 297**
 
 <br/>
-*Built with ❤️ using CLIP · Sarvam-2B · FAISS · Gradio*
+Built with ❤️ using CLIP · Sarvam-2B · FAISS · Gradio
 
 </div>
