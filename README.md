@@ -24,9 +24,9 @@ the moral backbone of Tamil civilisation. It contains **1,330 couplets** across 
 
 | Pal | Tamil | Scope |
 |-----|-------|-------|
-| 🌿 Virtue | அறத்துப்பால் | Ethics, family, righteous conduct |
-| 💰 Wealth | பொருட்பால் | Governance, economics, character |
-| ❤️ Love | காமத்துப்பால் | Romance, longing, union |
+| Virtue | அறத்துப்பால் | Ethics, family, righteous conduct |
+| Wealth | பொருட்பால் | Governance, economics, character |
+| Love | காமத்துப்பால் | Romance, longing, union |
 
 ---
 ### How it works
@@ -69,7 +69,7 @@ Please open an issue before starting large changes.
 ### Citation
 
 ```bibtex
-@software{vision_to_kural_2025,
+@software{vision_to_kural_2026,
   title   = {Vision-to-Kural: Ethical Image Captioning using Thirukkural},
   author  = {Birashalynee S},
   year    = {2026},
